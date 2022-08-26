@@ -1,4 +1,4 @@
-CREATE TABLE test_jinni (
+CREATE TABLE jinni (
   candidate_id INT NOT NULL,
   hire_reported TIMESTAMP NOT NULL,
   primary_keyword_candidate VARCHAR(45) NOT NULL,
